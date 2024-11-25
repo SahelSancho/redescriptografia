@@ -44,5 +44,5 @@ Certifique-se de ter os seguintes itens instalados:
    ```
 
 ## Autor
-**Nome:** Sahel Sancho & Kauan Leão
+**Nome:** Sahel Sancho & Kauan Leão  
 **GitHub:** https://github.com/SahelSancho
